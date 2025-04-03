@@ -1,4 +1,4 @@
-# MultipleAttestationCAs
+# Multiple Attestation CA System
 Code base for the 3 components of the multiple attestation CA system:
 1. Fog Node - simulates certificate signing requests (CSRs) sent from multiple client fog nodes
 2. CA server - 3 different Raspberry Pi 4B devices each host 1 CA server.
