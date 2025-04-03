@@ -3,10 +3,10 @@ from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime
 import os
 import csv
-import time  # Import time to add delay
+import time 
 import pandas as pd
 import numpy as np
-import sys  # For command-line arguments
+import sys 
 
 
 ak_certs_dir = 'AKCerts' 
@@ -21,7 +21,6 @@ os.makedirs(run_start_dir, exist_ok=True)
 request_csv_data_dir = 'RequestCsvData/single_ca_100_requests_gunicorn'
 os.makedirs(request_csv_data_dir, exist_ok=True)
 
-# Create the RequestArrivalTimes folder if it doesn't exist
 request_arrival_times_csvs_dir = 'RequestArrivalTimes'
 os.makedirs(request_arrival_times_csvs_dir, exist_ok=True)
 
@@ -74,11 +73,6 @@ def send_request(request_id, run_start_time, request_csv_data_file_path, arrival
                 success_counter += 1
                 wait_time = response.headers.get('X-Wait-Time', '0.0')
                 turnaround_time = (received_timestamp - sent_timestamp).total_seconds()
-
-                print(f'Sent time for request id {request_id} is {(sent_time - run_start_time).total_seconds()}')
-                print(f'End Time for request id {request_id} is {(end_time - run_start_time).total_seconds()}')
-                print(f'Turnaround Time for request id {request_id} is {turnaround_time}')
-                print(f'Wait Time for request id {request_id} is {wait_time}')
 
                 # Log the data to the CSV file relative to run_start_time
                 log_to_csv(request_csv_data_file_path ,request_id, (sent_time - run_start_time).total_seconds(),
