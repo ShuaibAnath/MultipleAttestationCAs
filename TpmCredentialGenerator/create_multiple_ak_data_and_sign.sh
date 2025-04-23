@@ -20,8 +20,8 @@ RSA_PRIMARY_PUBLIC_KEY="RsaPrimaryObjectCredentials/rsa_public_key.pem"
 RSA_PUB="RsaPrimaryObjectCredentials/rsa.pub" 
 RSA_PRIV="RsaPrimaryObjectCredentials/rsa.priv"
 
-# Loop to create 5 attestation keys, attestation key CSRs, and signed attestation key CSRs
-for ((i=0; i<5; i++)); do
+# Loop to create 100 attestation keys, attestation key CSRs, and signed attestation key CSRs
+for ((i=0; i<100; i++)); do
     # Define a sub-directory for each AK
     AK_SUBDIR="${AK_CREDENTIALS_DIR}/key_${i}"
 
@@ -39,8 +39,6 @@ for ((i=0; i<5; i++)); do
 
     # Generate unique AK key handle by converting the index to a valid handle format
     # AK_KEY_HANDLE="0x8101000a"
-    # tpm2-tools has issues with this handle because of differences in uppercase and lowercase.
-    # Also, generating the hex value to input to tpm2-tools becomes unnecessarily complex, refer to create_multiple_aks_and_csrs.sh for simpler implementation
     AK_KEY_HANDLE="0x$(printf '%08X' $((AK_KEY_HANDLE_BASE + i - 1)) | tr 'A-Z' 'a-z')"
     # AK_KEY_HANDLE="0x$(printf '%08X' $((AK_KEY_HANDLE_BASE + i - 1)))"
 
