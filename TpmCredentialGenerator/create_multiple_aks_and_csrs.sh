@@ -29,6 +29,8 @@ for i in {1..100}; do
     AK_CSR_PEM="${AK_SUBDIR}/attestation_key_${i}.csr"
 
     # Generate unique AK key handle by converting the index to a valid handle format
+    # tpm2-tools has issues with the below AK key handle generation because hex values are not accounted for in generating AK key handle values.
+    # Refer to create_multiple_ak_data_and_sign.sh for correct implementation
     AK_KEY_HANDLE="0x8101000$((i+1))"  # Creating handles like 0x81010002, 0x81010003, ...
 
     # Run the tpm2_createak command with the variables
