@@ -1,0 +1,14 @@
+# Place in etc/systemd/system/
+[Unit]
+Description=Gunicorn instance to server caserver Flask app
+After=network.target
+
+[service]
+User=caserver
+Group=www-data
+WorkingDirectory=/home/caserver/Desktop/LaptopAttestationCAFogSystem
+Environment="PATH=/home/caserver/Desktop/LaptopAttestationCAFogSystem/.venv/bin:/usr/bin"
+ExecStart=-/home/caserver/AttestationCA/.venv/bin/gunicorn --workers I --bind unix:caserver.sock -m 007 wsgi:app
+
+[Install]
+WantedBy=multi-user.target
