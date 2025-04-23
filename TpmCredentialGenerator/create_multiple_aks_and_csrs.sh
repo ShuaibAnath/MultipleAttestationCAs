@@ -13,8 +13,8 @@ AK_KEY_HANDLE_BASE="0x81010002"  # Base handle, will be incremented for each key
 EK_PUB_KEY_PEM_FILE="TpmEndorsementCredentials/EK_PUBLIC_KEY.pem"
 AK_CSR_DIGEST_BIN="attestation_key_csr.digest.bin"
 
-# Loop to create 5 attestation keys
-for i in {1..3}; do
+# Loop to create 100 attestation keys
+for i in {1..100}; do
     # Define a sub-directory for each AK
     AK_SUBDIR="${AK_CREDENTIALS_DIR}/key_${i}"
 
