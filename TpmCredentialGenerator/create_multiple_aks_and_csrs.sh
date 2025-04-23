@@ -7,7 +7,7 @@ AK_CREDENTIALS_DIR="AKCredentials"
 mkdir -p $AK_CREDENTIALS_DIR
 
 # Define common variables for AK creation
-EK_KEY_HANDLE="0x81010001"  # EK handle is 0x81010001
+EK_KEY_HANDLE="0x81010001"  # Default EK handle is 0x81010001
 SIG_SCHEME="rsapss"
 AK_KEY_HANDLE_BASE="0x81010002"  # Base handle, will be incremented for each key
 EK_PUB_KEY_PEM_FILE="TpmEndorsementCredentials/EK_PUBLIC_KEY.pem"
