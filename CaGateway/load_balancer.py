@@ -49,7 +49,7 @@ logging.basicConfig(
     datefmt='%Y-%m-%d %H:%M:%S'  # Date format for log entries
 )
 
-# Backend server details (You can scale this up with more backend servers)
+# Backend server IPs
 backend_servers = [
     'http://146.230.192.170'#,
     # 'http://146.230.193.218'#,
