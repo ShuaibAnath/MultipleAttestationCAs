@@ -4,11 +4,11 @@ Description=Gunicorn instance to server caserver Flask app
 After=network.target
 
 [service]
-User=caserver
+User=cagateway
 Group=www-data
-WorkingDirectory=/home/caserver/AttestationCA/
-Environment="PATH=/home/caserver/AttestationCA/.venv/bin:/usr/bin"
-ExecStart=-/home/caserver/AttestationCA/.venv/bin/gunicorn --workers 1 --bind unix:caserver.sock -m 007 wsgi:app
+WorkingDirectory=/home/cagateway/CaGateway/
+Environment="PATH=/home/cagateway/CaGateway/.venv/bin:/usr/bin"
+ExecStart=/home/cagateway/CaGateway/.venv/bin/gunicorn --workers 6 --bind unix:caserver.sock -m 007 wsgi:app
 
 [Install]
 WantedBy=multi-user.target
