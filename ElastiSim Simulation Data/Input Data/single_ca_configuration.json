@@ -1,0 +1,28 @@
+{"jobs_file": "data/input/single_ca_jobs.json",
+  "platform_file": "data/input/crossbar.xml",
+  "zmq_url": "ipc:///tmp/elastisim.ipc",
+  "schedule_on_job_submit": true,
+  "schedule_on_job_finalize": true,
+  "schedule_on_scheduling_point": true,
+  "schedule_on_reconfiguration": true,
+  "scheduling_interval": 0,
+  "min_scheduling_interval": 0,
+  "allow_oversubscription": false,
+  "clip_evolving_requests": true,
+  "forward_io_information": true,
+  "sensing": true,
+  "sensing_interval": 1,
+  "log_task_times": true,
+  "pfs_read_links": ["PFS_read"],
+  "pfs_write_links": ["PFS_write"],
+  "job_statistics": "data/output/single_ca_job_statistics.csv",
+  "cpu_utilization": "data/output/single_ca_cpu_utilization.csv",
+  "node_utilization": "data/output/single_ca_node_utilization.csv",
+  "network_activity": "data/output/single_ca_network_activity.csv",
+  "pfs_utilization": "data/output/single_ca_pfs_utilization.csv",
+  "gpu_utilization": "data/output/single_ca_gpu_utilization.csv",
+  "task_times": "data/output/single_ca_task_times.csv"
+}
+
+  
+  

@@ -1,0 +1,15 @@
+{
+  "phases": [
+    {
+      "iterations":"iterations",
+      "tasks":[
+        {
+          "type": "cpu",
+          "name": "Certificate Generation Process",
+          "flops": "flops",
+          "computation_pattern": "all_ranks"
+        }
+      ]
+    }
+  ]
+}

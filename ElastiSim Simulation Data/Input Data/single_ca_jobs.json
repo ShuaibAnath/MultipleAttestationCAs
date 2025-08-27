@@ -1,0 +1,1304 @@
+{
+    "jobs": [
+        {
+            "type": "malleable",
+            "submit_time": 0.00421398,
+            "num_nodes_min": 1,
+            "num_nodes_max": 2,
+            "application_model": "data/input/single_ca_application_model.json",
+            "arguments": {
+                "flops": 25520000,
+                "iterations": 1,
+                "request_communication_size": 4728,
+                "issuance_communication_size": 2108
+            }
+        },
+        {
+            "type": "malleable",
+            "submit_time": 0.00495356,
+            "num_nodes_min": 1,
+            "num_nodes_max": 2,
+            "application_model": "data/input/single_ca_application_model.json",
+            "arguments": {
+                "flops": 25520000,
+                "iterations": 1,
+                "request_communication_size": 4728,
+                "issuance_communication_size": 2108
+            }
+        },
+        {
+            "type": "malleable",
+            "submit_time": 0.00943863,
+            "num_nodes_min": 1,
+            "num_nodes_max": 2,
+            "application_model": "data/input/single_ca_application_model.json",
+            "arguments": {
+                "flops": 25520000,
+                "iterations": 1,
+                "request_communication_size": 4728,
+                "issuance_communication_size": 2108
+            }
+        },
+        {
+            "type": "malleable",
+            "submit_time": 0.01008312,
+            "num_nodes_min": 1,
+            "num_nodes_max": 2,
+            "application_model": "data/input/single_ca_application_model.json",
+            "arguments": {
+                "flops": 25520000,
+                "iterations": 1,
+                "request_communication_size": 4728,
+                "issuance_communication_size": 2108
+            }
+        },
+        {
+            "type": "malleable",
+            "submit_time": 0.02153791,
+            "num_nodes_min": 1,
+            "num_nodes_max": 2,
+            "application_model": "data/input/single_ca_application_model.json",
+            "arguments": {
+                "flops": 25520000,
+                "iterations": 1,
+                "request_communication_size": 4728,
+                "issuance_communication_size": 2108
+            }
+        },
+        {
+            "type": "malleable",
+            "submit_time": 0.02989141,
+            "num_nodes_min": 1,
+            "num_nodes_max": 2,
+            "application_model": "data/input/single_ca_application_model.json",
+            "arguments": {
+                "flops": 25520000,
+                "iterations": 1,
+                "request_communication_size": 4728,
+                "issuance_communication_size": 2108
+            }
+        },
+        {
+            "type": "malleable",
+            "submit_time": 0.03304684,
+            "num_nodes_min": 1,
+            "num_nodes_max": 2,
+            "application_model": "data/input/single_ca_application_model.json",
+            "arguments": {
+                "flops": 25520000,
+                "iterations": 1,
+                "request_communication_size": 4728,
+                "issuance_communication_size": 2108
+            }
+        },
+        {
+            "type": "malleable",
+            "submit_time": 0.03923692,
+            "num_nodes_min": 1,
+            "num_nodes_max": 2,
+            "application_model": "data/input/single_ca_application_model.json",
+            "arguments": {
+                "flops": 25520000,
+                "iterations": 1,
+                "request_communication_size": 4728,
+                "issuance_communication_size": 2108
+            }
+        },
+        {
+            "type": "malleable",
+            "submit_time": 0.04216968,
+            "num_nodes_min": 1,
+            "num_nodes_max": 2,
+            "application_model": "data/input/single_ca_application_model.json",
+            "arguments": {
+                "flops": 25520000,
+                "iterations": 1,
+                "request_communication_size": 4728,
+                "issuance_communication_size": 2108
+            }
+        },
+        {
+            "type": "malleable",
+            "submit_time": 0.04899739,
+            "num_nodes_min": 1,
+            "num_nodes_max": 2,
+            "application_model": "data/input/single_ca_application_model.json",
+            "arguments": {
+                "flops": 25520000,
+                "iterations": 1,
+                "request_communication_size": 4728,
+                "issuance_communication_size": 2108
+            }
+        },
+        {
+            "type": "malleable",
+            "submit_time": 0.04990585,
+            "num_nodes_min": 1,
+            "num_nodes_max": 2,
+            "application_model": "data/input/single_ca_application_model.json",
+            "arguments": {
+                "flops": 25520000,
+                "iterations": 1,
+                "request_communication_size": 4728,
+                "issuance_communication_size": 2108
+            }
+        },
+        {
+            "type": "malleable",
+            "submit_time": 0.05520169,
+            "num_nodes_min": 1,
+            "num_nodes_max": 2,
+            "application_model": "data/input/single_ca_application_model.json",
+            "arguments": {
+                "flops": 25520000,
+                "iterations": 1,
+                "request_communication_size": 4728,
+                "issuance_communication_size": 2108
+            }
+        },
+        {
+            "type": "malleable",
+            "submit_time": 0.05689377,
+            "num_nodes_min": 1,
+            "num_nodes_max": 2,
+            "application_model": "data/input/single_ca_application_model.json",
+            "arguments": {
+                "flops": 25520000,
+                "iterations": 1,
+                "request_communication_size": 4728,
+                "issuance_communication_size": 2108
+            }
+        },
+        {
+            "type": "malleable",
+            "submit_time": 0.05809234,
+            "num_nodes_min": 1,
+            "num_nodes_max": 2,
+            "application_model": "data/input/single_ca_application_model.json",
+            "arguments": {
+                "flops": 25520000,
+                "iterations": 1,
+                "request_communication_size": 4728,
+                "issuance_communication_size": 2108
+            }
+        },
+        {
+            "type": "malleable",
+            "submit_time": 0.06037771,
+            "num_nodes_min": 1,
+            "num_nodes_max": 2,
+            "application_model": "data/input/single_ca_application_model.json",
+            "arguments": {
+                "flops": 25520000,
+                "iterations": 1,
+                "request_communication_size": 4728,
+                "issuance_communication_size": 2108
+            }
+        },
+        {
+            "type": "malleable",
+            "submit_time": 0.06350059,
+            "num_nodes_min": 1,
+            "num_nodes_max": 2,
+            "application_model": "data/input/single_ca_application_model.json",
+            "arguments": {
+                "flops": 25520000,
+                "iterations": 1,
+                "request_communication_size": 4728,
+                "issuance_communication_size": 2108
+            }
+        },
+        {
+            "type": "malleable",
+            "submit_time": 0.07223908,
+            "num_nodes_min": 1,
+            "num_nodes_max": 2,
+            "application_model": "data/input/single_ca_application_model.json",
+            "arguments": {
+                "flops": 25520000,
+                "iterations": 1,
+                "request_communication_size": 4728,
+                "issuance_communication_size": 2108
+            }
+        },
+        {
+            "type": "malleable",
+            "submit_time": 0.07767441,
+            "num_nodes_min": 1,
+            "num_nodes_max": 2,
+            "application_model": "data/input/single_ca_application_model.json",
+            "arguments": {
+                "flops": 25520000,
+                "iterations": 1,
+                "request_communication_size": 4728,
+                "issuance_communication_size": 2108
+            }
+        },
+        {
+            "type": "malleable",
+            "submit_time": 0.08892,
+            "num_nodes_min": 1,
+            "num_nodes_max": 2,
+            "application_model": "data/input/single_ca_application_model.json",
+            "arguments": {
+                "flops": 25520000,
+                "iterations": 1,
+                "request_communication_size": 4728,
+                "issuance_communication_size": 2108
+            }
+        },
+        {
+            "type": "malleable",
+            "submit_time": 0.08986689,
+            "num_nodes_min": 1,
+            "num_nodes_max": 2,
+            "application_model": "data/input/single_ca_application_model.json",
+            "arguments": {
+                "flops": 25520000,
+                "iterations": 1,
+                "request_communication_size": 4728,
+                "issuance_communication_size": 2108
+            }
+        },
+        {
+            "type": "malleable",
+            "submit_time": 0.09131959,
+            "num_nodes_min": 1,
+            "num_nodes_max": 2,
+            "application_model": "data/input/single_ca_application_model.json",
+            "arguments": {
+                "flops": 25520000,
+                "iterations": 1,
+                "request_communication_size": 4728,
+                "issuance_communication_size": 2108
+            }
+        },
+        {
+            "type": "malleable",
+            "submit_time": 0.09247827,
+            "num_nodes_min": 1,
+            "num_nodes_max": 2,
+            "application_model": "data/input/single_ca_application_model.json",
+            "arguments": {
+                "flops": 25520000,
+                "iterations": 1,
+                "request_communication_size": 4728,
+                "issuance_communication_size": 2108
+            }
+        },
+        {
+            "type": "malleable",
+            "submit_time": 0.09575562,
+            "num_nodes_min": 1,
+            "num_nodes_max": 2,
+            "application_model": "data/input/single_ca_application_model.json",
+            "arguments": {
+                "flops": 25520000,
+                "iterations": 1,
+                "request_communication_size": 4728,
+                "issuance_communication_size": 2108
+            }
+        },
+        {
+            "type": "malleable",
+            "submit_time": 0.09891862,
+            "num_nodes_min": 1,
+            "num_nodes_max": 2,
+            "application_model": "data/input/single_ca_application_model.json",
+            "arguments": {
+                "flops": 25520000,
+                "iterations": 1,
+                "request_communication_size": 4728,
+                "issuance_communication_size": 2108
+            }
+        },
+        {
+            "type": "malleable",
+            "submit_time": 0.10140195,
+            "num_nodes_min": 1,
+            "num_nodes_max": 2,
+            "application_model": "data/input/single_ca_application_model.json",
+            "arguments": {
+                "flops": 25520000,
+                "iterations": 1,
+                "request_communication_size": 4728,
+                "issuance_communication_size": 2108
+            }
+        },
+        {
+            "type": "malleable",
+            "submit_time": 0.10341155,
+            "num_nodes_min": 1,
+            "num_nodes_max": 2,
+            "application_model": "data/input/single_ca_application_model.json",
+            "arguments": {
+                "flops": 25520000,
+                "iterations": 1,
+                "request_communication_size": 4728,
+                "issuance_communication_size": 2108
+            }
+        },
+        {
+            "type": "malleable",
+            "submit_time": 0.10347533,
+            "num_nodes_min": 1,
+            "num_nodes_max": 2,
+            "application_model": "data/input/single_ca_application_model.json",
+            "arguments": {
+                "flops": 25520000,
+                "iterations": 1,
+                "request_communication_size": 4728,
+                "issuance_communication_size": 2108
+            }
+        },
+        {
+            "type": "malleable",
+            "submit_time": 0.10610652,
+            "num_nodes_min": 1,
+            "num_nodes_max": 2,
+            "application_model": "data/input/single_ca_application_model.json",
+            "arguments": {
+                "flops": 25520000,
+                "iterations": 1,
+                "request_communication_size": 4728,
+                "issuance_communication_size": 2108
+            }
+        },
+        {
+            "type": "malleable",
+            "submit_time": 0.10675377,
+            "num_nodes_min": 1,
+            "num_nodes_max": 2,
+            "application_model": "data/input/single_ca_application_model.json",
+            "arguments": {
+                "flops": 25520000,
+                "iterations": 1,
+                "request_communication_size": 4728,
+                "issuance_communication_size": 2108
+            }
+        },
+        {
+            "type": "malleable",
+            "submit_time": 0.13314345,
+            "num_nodes_min": 1,
+            "num_nodes_max": 2,
+            "application_model": "data/input/single_ca_application_model.json",
+            "arguments": {
+                "flops": 25520000,
+                "iterations": 1,
+                "request_communication_size": 4728,
+                "issuance_communication_size": 2108
+            }
+        },
+        {
+            "type": "malleable",
+            "submit_time": 0.1352021,
+            "num_nodes_min": 1,
+            "num_nodes_max": 2,
+            "application_model": "data/input/single_ca_application_model.json",
+            "arguments": {
+                "flops": 25520000,
+                "iterations": 1,
+                "request_communication_size": 4728,
+                "issuance_communication_size": 2108
+            }
+        },
+        {
+            "type": "malleable",
+            "submit_time": 0.16545014,
+            "num_nodes_min": 1,
+            "num_nodes_max": 2,
+            "application_model": "data/input/single_ca_application_model.json",
+            "arguments": {
+                "flops": 25520000,
+                "iterations": 1,
+                "request_communication_size": 4728,
+                "issuance_communication_size": 2108
+            }
+        },
+        {
+            "type": "malleable",
+            "submit_time": 0.18179536,
+            "num_nodes_min": 1,
+            "num_nodes_max": 2,
+            "application_model": "data/input/single_ca_application_model.json",
+            "arguments": {
+                "flops": 25520000,
+                "iterations": 1,
+                "request_communication_size": 4728,
+                "issuance_communication_size": 2108
+            }
+        },
+        {
+            "type": "malleable",
+            "submit_time": 0.19197245,
+            "num_nodes_min": 1,
+            "num_nodes_max": 2,
+            "application_model": "data/input/single_ca_application_model.json",
+            "arguments": {
+                "flops": 25520000,
+                "iterations": 1,
+                "request_communication_size": 4728,
+                "issuance_communication_size": 2108
+            }
+        },
+        {
+            "type": "malleable",
+            "submit_time": 0.19758056,
+            "num_nodes_min": 1,
+            "num_nodes_max": 2,
+            "application_model": "data/input/single_ca_application_model.json",
+            "arguments": {
+                "flops": 25520000,
+                "iterations": 1,
+                "request_communication_size": 4728,
+                "issuance_communication_size": 2108
+            }
+        },
+        {
+            "type": "malleable",
+            "submit_time": 0.19920491,
+            "num_nodes_min": 1,
+            "num_nodes_max": 2,
+            "application_model": "data/input/single_ca_application_model.json",
+            "arguments": {
+                "flops": 25520000,
+                "iterations": 1,
+                "request_communication_size": 4728,
+                "issuance_communication_size": 2108
+            }
+        },
+        {
+            "type": "malleable",
+            "submit_time": 0.20048279,
+            "num_nodes_min": 1,
+            "num_nodes_max": 2,
+            "application_model": "data/input/single_ca_application_model.json",
+            "arguments": {
+                "flops": 25520000,
+                "iterations": 1,
+                "request_communication_size": 4728,
+                "issuance_communication_size": 2108
+            }
+        },
+        {
+            "type": "malleable",
+            "submit_time": 0.20512779,
+            "num_nodes_min": 1,
+            "num_nodes_max": 2,
+            "application_model": "data/input/single_ca_application_model.json",
+            "arguments": {
+                "flops": 25520000,
+                "iterations": 1,
+                "request_communication_size": 4728,
+                "issuance_communication_size": 2108
+            }
+        },
+        {
+            "type": "malleable",
+            "submit_time": 0.20632131,
+            "num_nodes_min": 1,
+            "num_nodes_max": 2,
+            "application_model": "data/input/single_ca_application_model.json",
+            "arguments": {
+                "flops": 25520000,
+                "iterations": 1,
+                "request_communication_size": 4728,
+                "issuance_communication_size": 2108
+            }
+        },
+        {
+            "type": "malleable",
+            "submit_time": 0.21004449,
+            "num_nodes_min": 1,
+            "num_nodes_max": 2,
+            "application_model": "data/input/single_ca_application_model.json",
+            "arguments": {
+                "flops": 25520000,
+                "iterations": 1,
+                "request_communication_size": 4728,
+                "issuance_communication_size": 2108
+            }
+        },
+        {
+            "type": "malleable",
+            "submit_time": 0.21240882,
+            "num_nodes_min": 1,
+            "num_nodes_max": 2,
+            "application_model": "data/input/single_ca_application_model.json",
+            "arguments": {
+                "flops": 25520000,
+                "iterations": 1,
+                "request_communication_size": 4728,
+                "issuance_communication_size": 2108
+            }
+        },
+        {
+            "type": "malleable",
+            "submit_time": 0.21935513,
+            "num_nodes_min": 1,
+            "num_nodes_max": 2,
+            "application_model": "data/input/single_ca_application_model.json",
+            "arguments": {
+                "flops": 25520000,
+                "iterations": 1,
+                "request_communication_size": 4728,
+                "issuance_communication_size": 2108
+            }
+        },
+        {
+            "type": "malleable",
+            "submit_time": 0.22157177,
+            "num_nodes_min": 1,
+            "num_nodes_max": 2,
+            "application_model": "data/input/single_ca_application_model.json",
+            "arguments": {
+                "flops": 25520000,
+                "iterations": 1,
+                "request_communication_size": 4728,
+                "issuance_communication_size": 2108
+            }
+        },
+        {
+            "type": "malleable",
+            "submit_time": 0.23090959,
+            "num_nodes_min": 1,
+            "num_nodes_max": 2,
+            "application_model": "data/input/single_ca_application_model.json",
+            "arguments": {
+                "flops": 25520000,
+                "iterations": 1,
+                "request_communication_size": 4728,
+                "issuance_communication_size": 2108
+            }
+        },
+        {
+            "type": "malleable",
+            "submit_time": 0.23200533,
+            "num_nodes_min": 1,
+            "num_nodes_max": 2,
+            "application_model": "data/input/single_ca_application_model.json",
+            "arguments": {
+                "flops": 25520000,
+                "iterations": 1,
+                "request_communication_size": 4728,
+                "issuance_communication_size": 2108
+            }
+        },
+        {
+            "type": "malleable",
+            "submit_time": 0.24726737,
+            "num_nodes_min": 1,
+            "num_nodes_max": 2,
+            "application_model": "data/input/single_ca_application_model.json",
+            "arguments": {
+                "flops": 25520000,
+                "iterations": 1,
+                "request_communication_size": 4728,
+                "issuance_communication_size": 2108
+            }
+        },
+        {
+            "type": "malleable",
+            "submit_time": 0.25211389,
+            "num_nodes_min": 1,
+            "num_nodes_max": 2,
+            "application_model": "data/input/single_ca_application_model.json",
+            "arguments": {
+                "flops": 25520000,
+                "iterations": 1,
+                "request_communication_size": 4728,
+                "issuance_communication_size": 2108
+            }
+        },
+        {
+            "type": "malleable",
+            "submit_time": 0.25310707,
+            "num_nodes_min": 1,
+            "num_nodes_max": 2,
+            "application_model": "data/input/single_ca_application_model.json",
+            "arguments": {
+                "flops": 25520000,
+                "iterations": 1,
+                "request_communication_size": 4728,
+                "issuance_communication_size": 2108
+            }
+        },
+        {
+            "type": "malleable",
+            "submit_time": 0.26179248,
+            "num_nodes_min": 1,
+            "num_nodes_max": 2,
+            "application_model": "data/input/single_ca_application_model.json",
+            "arguments": {
+                "flops": 25520000,
+                "iterations": 1,
+                "request_communication_size": 4728,
+                "issuance_communication_size": 2108
+            }
+        },
+        {
+            "type": "malleable",
+            "submit_time": 0.26565583,
+            "num_nodes_min": 1,
+            "num_nodes_max": 2,
+            "application_model": "data/input/single_ca_application_model.json",
+            "arguments": {
+                "flops": 25520000,
+                "iterations": 1,
+                "request_communication_size": 4728,
+                "issuance_communication_size": 2108
+            }
+        },
+        {
+            "type": "malleable",
+            "submit_time": 0.26684271,
+            "num_nodes_min": 1,
+            "num_nodes_max": 2,
+            "application_model": "data/input/single_ca_application_model.json",
+            "arguments": {
+                "flops": 25520000,
+                "iterations": 1,
+                "request_communication_size": 4728,
+                "issuance_communication_size": 2108
+            }
+        },
+        {
+            "type": "malleable",
+            "submit_time": 0.2771701,
+            "num_nodes_min": 1,
+            "num_nodes_max": 2,
+            "application_model": "data/input/single_ca_application_model.json",
+            "arguments": {
+                "flops": 25520000,
+                "iterations": 1,
+                "request_communication_size": 4728,
+                "issuance_communication_size": 2108
+            }
+        },
+        {
+            "type": "malleable",
+            "submit_time": 0.28561813,
+            "num_nodes_min": 1,
+            "num_nodes_max": 2,
+            "application_model": "data/input/single_ca_application_model.json",
+            "arguments": {
+                "flops": 25520000,
+                "iterations": 1,
+                "request_communication_size": 4728,
+                "issuance_communication_size": 2108
+            }
+        },
+        {
+            "type": "malleable",
+            "submit_time": 0.28587162,
+            "num_nodes_min": 1,
+            "num_nodes_max": 2,
+            "application_model": "data/input/single_ca_application_model.json",
+            "arguments": {
+                "flops": 25520000,
+                "iterations": 1,
+                "request_communication_size": 4728,
+                "issuance_communication_size": 2108
+            }
+        },
+        {
+            "type": "malleable",
+            "submit_time": 0.29628032,
+            "num_nodes_min": 1,
+            "num_nodes_max": 2,
+            "application_model": "data/input/single_ca_application_model.json",
+            "arguments": {
+                "flops": 25520000,
+                "iterations": 1,
+                "request_communication_size": 4728,
+                "issuance_communication_size": 2108
+            }
+        },
+        {
+            "type": "malleable",
+            "submit_time": 0.3015378,
+            "num_nodes_min": 1,
+            "num_nodes_max": 2,
+            "application_model": "data/input/single_ca_application_model.json",
+            "arguments": {
+                "flops": 25520000,
+                "iterations": 1,
+                "request_communication_size": 4728,
+                "issuance_communication_size": 2108
+            }
+        },
+        {
+            "type": "malleable",
+            "submit_time": 0.30195483,
+            "num_nodes_min": 1,
+            "num_nodes_max": 2,
+            "application_model": "data/input/single_ca_application_model.json",
+            "arguments": {
+                "flops": 25520000,
+                "iterations": 1,
+                "request_communication_size": 4728,
+                "issuance_communication_size": 2108
+            }
+        },
+        {
+            "type": "malleable",
+            "submit_time": 0.30248953,
+            "num_nodes_min": 1,
+            "num_nodes_max": 2,
+            "application_model": "data/input/single_ca_application_model.json",
+            "arguments": {
+                "flops": 25520000,
+                "iterations": 1,
+                "request_communication_size": 4728,
+                "issuance_communication_size": 2108
+            }
+        },
+        {
+            "type": "malleable",
+            "submit_time": 0.30394086,
+            "num_nodes_min": 1,
+            "num_nodes_max": 2,
+            "application_model": "data/input/single_ca_application_model.json",
+            "arguments": {
+                "flops": 25520000,
+                "iterations": 1,
+                "request_communication_size": 4728,
+                "issuance_communication_size": 2108
+            }
+        },
+        {
+            "type": "malleable",
+            "submit_time": 0.30571598,
+            "num_nodes_min": 1,
+            "num_nodes_max": 2,
+            "application_model": "data/input/single_ca_application_model.json",
+            "arguments": {
+                "flops": 25520000,
+                "iterations": 1,
+                "request_communication_size": 4728,
+                "issuance_communication_size": 2108
+            }
+        },
+        {
+            "type": "malleable",
+            "submit_time": 0.31208764,
+            "num_nodes_min": 1,
+            "num_nodes_max": 2,
+            "application_model": "data/input/single_ca_application_model.json",
+            "arguments": {
+                "flops": 25520000,
+                "iterations": 1,
+                "request_communication_size": 4728,
+                "issuance_communication_size": 2108
+            }
+        },
+        {
+            "type": "malleable",
+            "submit_time": 0.31731582,
+            "num_nodes_min": 1,
+            "num_nodes_max": 2,
+            "application_model": "data/input/single_ca_application_model.json",
+            "arguments": {
+                "flops": 25520000,
+                "iterations": 1,
+                "request_communication_size": 4728,
+                "issuance_communication_size": 2108
+            }
+        },
+        {
+            "type": "malleable",
+            "submit_time": 0.33178751,
+            "num_nodes_min": 1,
+            "num_nodes_max": 2,
+            "application_model": "data/input/single_ca_application_model.json",
+            "arguments": {
+                "flops": 25520000,
+                "iterations": 1,
+                "request_communication_size": 4728,
+                "issuance_communication_size": 2108
+            }
+        },
+        {
+            "type": "malleable",
+            "submit_time": 0.33378603,
+            "num_nodes_min": 1,
+            "num_nodes_max": 2,
+            "application_model": "data/input/single_ca_application_model.json",
+            "arguments": {
+                "flops": 25520000,
+                "iterations": 1,
+                "request_communication_size": 4728,
+                "issuance_communication_size": 2108
+            }
+        },
+        {
+            "type": "malleable",
+            "submit_time": 0.33518707,
+            "num_nodes_min": 1,
+            "num_nodes_max": 2,
+            "application_model": "data/input/single_ca_application_model.json",
+            "arguments": {
+                "flops": 25520000,
+                "iterations": 1,
+                "request_communication_size": 4728,
+                "issuance_communication_size": 2108
+            }
+        },
+        {
+            "type": "malleable",
+            "submit_time": 0.34104466,
+            "num_nodes_min": 1,
+            "num_nodes_max": 2,
+            "application_model": "data/input/single_ca_application_model.json",
+            "arguments": {
+                "flops": 25520000,
+                "iterations": 1,
+                "request_communication_size": 4728,
+                "issuance_communication_size": 2108
+            }
+        },
+        {
+            "type": "malleable",
+            "submit_time": 0.34264504,
+            "num_nodes_min": 1,
+            "num_nodes_max": 2,
+            "application_model": "data/input/single_ca_application_model.json",
+            "arguments": {
+                "flops": 25520000,
+                "iterations": 1,
+                "request_communication_size": 4728,
+                "issuance_communication_size": 2108
+            }
+        },
+        {
+            "type": "malleable",
+            "submit_time": 0.34307929,
+            "num_nodes_min": 1,
+            "num_nodes_max": 2,
+            "application_model": "data/input/single_ca_application_model.json",
+            "arguments": {
+                "flops": 25520000,
+                "iterations": 1,
+                "request_communication_size": 4728,
+                "issuance_communication_size": 2108
+            }
+        },
+        {
+            "type": "malleable",
+            "submit_time": 0.34427616,
+            "num_nodes_min": 1,
+            "num_nodes_max": 2,
+            "application_model": "data/input/single_ca_application_model.json",
+            "arguments": {
+                "flops": 25520000,
+                "iterations": 1,
+                "request_communication_size": 4728,
+                "issuance_communication_size": 2108
+            }
+        },
+        {
+            "type": "malleable",
+            "submit_time": 0.34489664,
+            "num_nodes_min": 1,
+            "num_nodes_max": 2,
+            "application_model": "data/input/single_ca_application_model.json",
+            "arguments": {
+                "flops": 25520000,
+                "iterations": 1,
+                "request_communication_size": 4728,
+                "issuance_communication_size": 2108
+            }
+        },
+        {
+            "type": "malleable",
+            "submit_time": 0.346243,
+            "num_nodes_min": 1,
+            "num_nodes_max": 2,
+            "application_model": "data/input/single_ca_application_model.json",
+            "arguments": {
+                "flops": 25520000,
+                "iterations": 1,
+                "request_communication_size": 4728,
+                "issuance_communication_size": 2108
+            }
+        },
+        {
+            "type": "malleable",
+            "submit_time": 0.34677154,
+            "num_nodes_min": 1,
+            "num_nodes_max": 2,
+            "application_model": "data/input/single_ca_application_model.json",
+            "arguments": {
+                "flops": 25520000,
+                "iterations": 1,
+                "request_communication_size": 4728,
+                "issuance_communication_size": 2108
+            }
+        },
+        {
+            "type": "malleable",
+            "submit_time": 0.34847971,
+            "num_nodes_min": 1,
+            "num_nodes_max": 2,
+            "application_model": "data/input/single_ca_application_model.json",
+            "arguments": {
+                "flops": 25520000,
+                "iterations": 1,
+                "request_communication_size": 4728,
+                "issuance_communication_size": 2108
+            }
+        },
+        {
+            "type": "malleable",
+            "submit_time": 0.36165042,
+            "num_nodes_min": 1,
+            "num_nodes_max": 2,
+            "application_model": "data/input/single_ca_application_model.json",
+            "arguments": {
+                "flops": 25520000,
+                "iterations": 1,
+                "request_communication_size": 4728,
+                "issuance_communication_size": 2108
+            }
+        },
+        {
+            "type": "malleable",
+            "submit_time": 0.36929605,
+            "num_nodes_min": 1,
+            "num_nodes_max": 2,
+            "application_model": "data/input/single_ca_application_model.json",
+            "arguments": {
+                "flops": 25520000,
+                "iterations": 1,
+                "request_communication_size": 4728,
+                "issuance_communication_size": 2108
+            }
+        },
+        {
+            "type": "malleable",
+            "submit_time": 0.38116748,
+            "num_nodes_min": 1,
+            "num_nodes_max": 2,
+            "application_model": "data/input/single_ca_application_model.json",
+            "arguments": {
+                "flops": 25520000,
+                "iterations": 1,
+                "request_communication_size": 4728,
+                "issuance_communication_size": 2108
+            }
+        },
+        {
+            "type": "malleable",
+            "submit_time": 0.38269295,
+            "num_nodes_min": 1,
+            "num_nodes_max": 2,
+            "application_model": "data/input/single_ca_application_model.json",
+            "arguments": {
+                "flops": 25520000,
+                "iterations": 1,
+                "request_communication_size": 4728,
+                "issuance_communication_size": 2108
+            }
+        },
+        {
+            "type": "malleable",
+            "submit_time": 0.39073216,
+            "num_nodes_min": 1,
+            "num_nodes_max": 2,
+            "application_model": "data/input/single_ca_application_model.json",
+            "arguments": {
+                "flops": 25520000,
+                "iterations": 1,
+                "request_communication_size": 4728,
+                "issuance_communication_size": 2108
+            }
+        },
+        {
+            "type": "malleable",
+            "submit_time": 0.39822155,
+            "num_nodes_min": 1,
+            "num_nodes_max": 2,
+            "application_model": "data/input/single_ca_application_model.json",
+            "arguments": {
+                "flops": 25520000,
+                "iterations": 1,
+                "request_communication_size": 4728,
+                "issuance_communication_size": 2108
+            }
+        },
+        {
+            "type": "malleable",
+            "submit_time": 0.39952449,
+            "num_nodes_min": 1,
+            "num_nodes_max": 2,
+            "application_model": "data/input/single_ca_application_model.json",
+            "arguments": {
+                "flops": 25520000,
+                "iterations": 1,
+                "request_communication_size": 4728,
+                "issuance_communication_size": 2108
+            }
+        },
+        {
+            "type": "malleable",
+            "submit_time": 0.40067985,
+            "num_nodes_min": 1,
+            "num_nodes_max": 2,
+            "application_model": "data/input/single_ca_application_model.json",
+            "arguments": {
+                "flops": 25520000,
+                "iterations": 1,
+                "request_communication_size": 4728,
+                "issuance_communication_size": 2108
+            }
+        },
+        {
+            "type": "malleable",
+            "submit_time": 0.4017808,
+            "num_nodes_min": 1,
+            "num_nodes_max": 2,
+            "application_model": "data/input/single_ca_application_model.json",
+            "arguments": {
+                "flops": 25520000,
+                "iterations": 1,
+                "request_communication_size": 4728,
+                "issuance_communication_size": 2108
+            }
+        },
+        {
+            "type": "malleable",
+            "submit_time": 0.40291994,
+            "num_nodes_min": 1,
+            "num_nodes_max": 2,
+            "application_model": "data/input/single_ca_application_model.json",
+            "arguments": {
+                "flops": 25520000,
+                "iterations": 1,
+                "request_communication_size": 4728,
+                "issuance_communication_size": 2108
+            }
+        },
+        {
+            "type": "malleable",
+            "submit_time": 0.4046093,
+            "num_nodes_min": 1,
+            "num_nodes_max": 2,
+            "application_model": "data/input/single_ca_application_model.json",
+            "arguments": {
+                "flops": 25520000,
+                "iterations": 1,
+                "request_communication_size": 4728,
+                "issuance_communication_size": 2108
+            }
+        },
+        {
+            "type": "malleable",
+            "submit_time": 0.41124134,
+            "num_nodes_min": 1,
+            "num_nodes_max": 2,
+            "application_model": "data/input/single_ca_application_model.json",
+            "arguments": {
+                "flops": 25520000,
+                "iterations": 1,
+                "request_communication_size": 4728,
+                "issuance_communication_size": 2108
+            }
+        },
+        {
+            "type": "malleable",
+            "submit_time": 0.41569241,
+            "num_nodes_min": 1,
+            "num_nodes_max": 2,
+            "application_model": "data/input/single_ca_application_model.json",
+            "arguments": {
+                "flops": 25520000,
+                "iterations": 1,
+                "request_communication_size": 4728,
+                "issuance_communication_size": 2108
+            }
+        },
+        {
+            "type": "malleable",
+            "submit_time": 0.43082553,
+            "num_nodes_min": 1,
+            "num_nodes_max": 2,
+            "application_model": "data/input/single_ca_application_model.json",
+            "arguments": {
+                "flops": 25520000,
+                "iterations": 1,
+                "request_communication_size": 4728,
+                "issuance_communication_size": 2108
+            }
+        },
+        {
+            "type": "malleable",
+            "submit_time": 0.43320465,
+            "num_nodes_min": 1,
+            "num_nodes_max": 2,
+            "application_model": "data/input/single_ca_application_model.json",
+            "arguments": {
+                "flops": 25520000,
+                "iterations": 1,
+                "request_communication_size": 4728,
+                "issuance_communication_size": 2108
+            }
+        },
+        {
+            "type": "malleable",
+            "submit_time": 0.43418272,
+            "num_nodes_min": 1,
+            "num_nodes_max": 2,
+            "application_model": "data/input/single_ca_application_model.json",
+            "arguments": {
+                "flops": 25520000,
+                "iterations": 1,
+                "request_communication_size": 4728,
+                "issuance_communication_size": 2108
+            }
+        },
+        {
+            "type": "malleable",
+            "submit_time": 0.45239626,
+            "num_nodes_min": 1,
+            "num_nodes_max": 2,
+            "application_model": "data/input/single_ca_application_model.json",
+            "arguments": {
+                "flops": 25520000,
+                "iterations": 1,
+                "request_communication_size": 4728,
+                "issuance_communication_size": 2108
+            }
+        },
+        {
+            "type": "malleable",
+            "submit_time": 0.45348892,
+            "num_nodes_min": 1,
+            "num_nodes_max": 2,
+            "application_model": "data/input/single_ca_application_model.json",
+            "arguments": {
+                "flops": 25520000,
+                "iterations": 1,
+                "request_communication_size": 4728,
+                "issuance_communication_size": 2108
+            }
+        },
+        {
+            "type": "malleable",
+            "submit_time": 0.46209196,
+            "num_nodes_min": 1,
+            "num_nodes_max": 2,
+            "application_model": "data/input/single_ca_application_model.json",
+            "arguments": {
+                "flops": 25520000,
+                "iterations": 1,
+                "request_communication_size": 4728,
+                "issuance_communication_size": 2108
+            }
+        },
+        {
+            "type": "malleable",
+            "submit_time": 0.46216222,
+            "num_nodes_min": 1,
+            "num_nodes_max": 2,
+            "application_model": "data/input/single_ca_application_model.json",
+            "arguments": {
+                "flops": 25520000,
+                "iterations": 1,
+                "request_communication_size": 4728,
+                "issuance_communication_size": 2108
+            }
+        },
+        {
+            "type": "malleable",
+            "submit_time": 0.46731181,
+            "num_nodes_min": 1,
+            "num_nodes_max": 2,
+            "application_model": "data/input/single_ca_application_model.json",
+            "arguments": {
+                "flops": 25520000,
+                "iterations": 1,
+                "request_communication_size": 4728,
+                "issuance_communication_size": 2108
+            }
+        },
+        {
+            "type": "malleable",
+            "submit_time": 0.46831445,
+            "num_nodes_min": 1,
+            "num_nodes_max": 2,
+            "application_model": "data/input/single_ca_application_model.json",
+            "arguments": {
+                "flops": 25520000,
+                "iterations": 1,
+                "request_communication_size": 4728,
+                "issuance_communication_size": 2108
+            }
+        },
+        {
+            "type": "malleable",
+            "submit_time": 0.47645893,
+            "num_nodes_min": 1,
+            "num_nodes_max": 2,
+            "application_model": "data/input/single_ca_application_model.json",
+            "arguments": {
+                "flops": 25520000,
+                "iterations": 1,
+                "request_communication_size": 4728,
+                "issuance_communication_size": 2108
+            }
+        },
+        {
+            "type": "malleable",
+            "submit_time": 0.48013201,
+            "num_nodes_min": 1,
+            "num_nodes_max": 2,
+            "application_model": "data/input/single_ca_application_model.json",
+            "arguments": {
+                "flops": 25520000,
+                "iterations": 1,
+                "request_communication_size": 4728,
+                "issuance_communication_size": 2108
+            }
+        },
+        {
+            "type": "malleable",
+            "submit_time": 0.48573936,
+            "num_nodes_min": 1,
+            "num_nodes_max": 2,
+            "application_model": "data/input/single_ca_application_model.json",
+            "arguments": {
+                "flops": 25520000,
+                "iterations": 1,
+                "request_communication_size": 4728,
+                "issuance_communication_size": 2108
+            }
+        },
+        {
+            "type": "malleable",
+            "submit_time": 0.49937429,
+            "num_nodes_min": 1,
+            "num_nodes_max": 2,
+            "application_model": "data/input/single_ca_application_model.json",
+            "arguments": {
+                "flops": 25520000,
+                "iterations": 1,
+                "request_communication_size": 4728,
+                "issuance_communication_size": 2108
+            }
+        },
+        {
+            "type": "malleable",
+            "submit_time": 0.50103851,
+            "num_nodes_min": 1,
+            "num_nodes_max": 2,
+            "application_model": "data/input/single_ca_application_model.json",
+            "arguments": {
+                "flops": 25520000,
+                "iterations": 1,
+                "request_communication_size": 4728,
+                "issuance_communication_size": 2108
+            }
+        }
+    ]
+}
